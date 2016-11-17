@@ -1,0 +1,3 @@
+[submodule "cs-test"]
+	path = cs-test
+	url = https://github.com/mjastrzebowski/cs-test.git
